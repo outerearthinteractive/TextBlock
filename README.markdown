@@ -7,7 +7,10 @@ Licensed under GPLv3, distributed on Android Market with advertising to support 
 
 If you find something wrong, use the issue tracker. If you can fix it yourself, submit a pull request. Same goes for desired features.
 
-I made this because I kept getting annoying BREW messages from Verizon, in case you cared.
+I'm making this because I have a few friends I wish to teach Android development to, and what better place to start than actually working on something.
+
+I also keep getting annoying messages from Verizon.
+
 
 Methodology of Workitude and Functionality 
 ==========================================
