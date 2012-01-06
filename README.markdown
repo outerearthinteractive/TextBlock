@@ -3,7 +3,7 @@ TextBlock
 
 Simple text ignore / discard system for Android. Lightweight, non-intrusive, and sexy.
 
-Licensed under GPLv3, distributed on Android Market with advertising to support Outer Earth Interactive and future applications. Master branch will have no advertisements, so compile away.
+Licensed under GPLv3 [1], distributed on Android Market with advertising to support Outer Earth Interactive and future applications. Master branch will have no advertisements, so compile away.
 
 If you find something wrong, use the issue tracker. If you can fix it yourself, submit a pull request. Same goes for desired features.
 
@@ -11,7 +11,7 @@ I'm making this because I have a few friends I wish to teach Android development
 
 I also keep getting annoying messages from Verizon.
 
-
+[1] https://github.com/outerearthinteractive/TextBlock/blob/master/COPYING.markdown "License Info"
 Methodology of Workitude and Functionality 
 ==========================================
 
